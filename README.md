@@ -1,17 +1,17 @@
-# untitled
+# SwiftCamScanner
 
-A new Flutter project.
+## Overview
+# ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/camscanner-clone/main/screenshots/CAm%20Vedio.gif)
 
-## Getting Started
+## Requirements
+Windows 10 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Details
+This project is developed in dart language integrated with firebase. The thing which make this project different from other is Catagories. User can save created pdf into different catagories and then check from these catagories. User can also create new catagorie and can delete old-one. User can also see recent open files and can also change the theme in black mode.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# BankApp" 
+## Author Information
+### Name
+Asad Hayat
+### Email
+asadhayat2007@gmail.com
