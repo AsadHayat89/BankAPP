@@ -1,15 +1,14 @@
 # SwiftCamScanner
 
 ## Overview
-# ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/camscanner-clone/main/screenshots/CAm%20Vedio.gif)
+# ![Demo GIF](https://raw.githubusercontent.com/AsadHayat89/BankApp/main/Screenshots/bank-app.gif)
 
 ## Requirements
 Windows 10 
-
+Min I3 5 gen
 
 ## Details
-This project is developed in dart language integrated with firebase. The thing which make this project different from other is Catagories. User can save created pdf into different catagories and then check from these catagories. User can also create new catagorie and can delete old-one. User can also see recent open files and can also change the theme in black mode.
-
+Project was developed in flutter which aims to provide user-friendly interface to android and IOS users. We have just worked on the design of this project with no backend functionalities. Project will be updated after the completion. In this project user can transfer money and can pay utilities bills and others.
 ## Author Information
 ### Name
 Asad Hayat
